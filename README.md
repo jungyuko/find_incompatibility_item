@@ -19,3 +19,6 @@ outfit에서 어울리지 않는 item k개를 찾아서 나머지 item들과 어
 
 3. 구현
 4. 결과 확인
+ **Positive outfit**
+ ![pos_img](./sampling_outfit/pos_outfit.png)
+ **Negative outfit**
